@@ -13,6 +13,7 @@ int main(void)
 		bob.attack();
 	}
 	{
+		//PUNTERO
 		Weapon club = Weapon("crude spiked club");
 		HumanB jim("Jim");
 		jim.setWeapon(club);
